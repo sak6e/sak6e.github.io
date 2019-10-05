@@ -1,0 +1,45 @@
+ul{
+  display:flex;
+  list-style:none;
+}
+li{
+  margin-left: auto;
+  margin-right: auto;
+}
+.dv1{
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.p1{
+  width:60%;
+  float:left;
+  margin:40px 60px;
+}
+.pfimg{
+  float:left;
+  margin:10px 50px;
+}
+input{
+  margin:10px 10px;
+}
+button{
+  margin:10px 10px;
+}
+.p2{
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.h{
+  margin:20px 60px 20px 20px;
+}
+.iimg{
+  margin:10px 10px;
+}
+.btscl{
+  border-radius:45px;
+}
+#ct{
+  margin-top:600px;
+}
